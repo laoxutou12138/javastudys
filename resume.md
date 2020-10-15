@@ -2,21 +2,21 @@
 
 <img src="https://i.loli.net/2020/10/13/r9GZIBhKzdVALxe.jpg" alt="image-20201014173435678 weith" style="zoom: 15%; float: left;"  />      **姓名** **：**徐天锡
 
-​      **手&ensp;机&ensp;号：** 158 0528 6949&emsp;&emsp;                 **邮&emsp;&emsp;箱：**2513539241@qq.com      
+​      ** 手&ensp;机&ensp;号：** 158 0528 6949&emsp;&emsp;                 ** 邮&emsp;&emsp;箱：** 2513539241@qq.com      
 
-​      **证&emsp;&emsp;书：** 公共英语三级、计算机二级     **实习经验：** 1年
+​      ** 证&emsp;&emsp;书：** 公共英语三级、计算机二级     ** 实习经验：** 1年
 
-​     **GitHub：**https://github.com/laoxutou12138
+​     ** GitHub：** https://github.com/laoxutou12138
 
-​     **毕业学校：** &ensp;镇江高等职业技术学校
+​     ** 毕业学校：** &ensp;镇江高等职业技术学校
 
 ## 实习经历
 
-**公司：**江苏鸿剑科技有限公司&emsp;&emsp;**职位：** 安卓开发工程师&emsp;&emsp;**时间：** 2019.7.1-2019-12.1
+** 公司：** 江苏鸿剑科技有限公司&emsp;&emsp;** 职位：** 安卓开发工程师&emsp;&emsp;**时间：** 2019.7.1-2019-12.1
 <br/>
 **项目名称：** 陈静采耳APP
 <br/>
-**项目简介：**用户和技师可以使用此APP进行不同操作
+**项目简介：** 用户和技师可以使用此APP进行不同操作
 <br/>
 **主要工作：**
 
