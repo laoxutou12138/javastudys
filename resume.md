@@ -4,7 +4,7 @@
 
 ​      **手&ensp;机&ensp;号： 158 0528 6949&emsp;&emsp;                 邮&emsp;&emsp;箱：2513539241@qq.com**      
 
-​      **证&emsp;&emsp;书：公共英语三级、计算机二级     实习经验：1年**
+​      **证&emsp;&emsp;书：公共英语三级、计算机二级    &emsp;&emsp; 实习经验：1年**
 
 ​      **GitHub：https://github.com/laoxutou12138**
 
