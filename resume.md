@@ -1,6 +1,6 @@
 # <font color=#2F4F4F size=7 face="黑体">我的简历</font>
 
-<img src="https://i.loli.net/2020/10/13/r9GZIBhKzdVALxe.jpg" alt="image-20201014173435678 weith" style="zoom: 15%; float: left;"  />      **姓名 ：徐天锡**
+<img src="https://i.loli.net/2020/10/13/r9GZIBhKzdVALxe.jpg" alt="image-20201014173435678 weith" style="zoom: 15%; float: left;"  />     &emsp; **姓名 ：徐天锡**
 
 ​      **手&ensp;机&ensp;号： 158 0528 6949&emsp;&emsp;                 邮&emsp;&emsp;箱：2513539241@qq.com**      
 
@@ -102,12 +102,13 @@
 
 - 使用软件及技术
 
-  1.软件介绍
+1.软件介绍
+
   ![image-20201014105125085](https://i.loli.net/2020/10/14/oGdOLECqzPepWX8.png)
 
 Visual Studio 2019为微软公司于2019年更新的Visual Studio最新版本，其中改进了 C++ 文件的 IntelliSense 性能，使用多个常用仿真程序进行本地开发，简化了解决方案资源管理器中的测试访问，IDE 中的 Git 管理和存储库创建，Kubernetes 支持现在包含在 Microsoft Azure 工作负载中，Visual Studio 2019支持C语言，C#等多种语言的编写，同时Visual Studio 2019 界面能将近期运行项目以列表形式显示。
 
-​      2.Xamarin介绍
+2.Xamarin介绍
 
 ![image-20201014105732440](https://i.loli.net/2020/10/14/PsndqDeWEx1Gmpa.png)
 
