@@ -24,11 +24,11 @@ public class MyCode {
                 BookClass.builder().bookName("Wow").price(30).bookDate(new Date()).build(),
                 BookClass.builder().bookName("AC").price(40).bookDate(new Date()).build(),
         };
-        List<BookClass> bc1=new ArrayList<>(Arrays.asList(bc));
+        List<BookClass> bc1=new ArrayList<BookClass>(Arrays.asList(bc));
         sc.setBooks(bc1);
         for (BookClass bookClass : bc1) {
             System.out.println(bookClass.getBookName());
         }
-        bc1.forEach(bookClass -> System.out.println(bookClass.getBookName()));
+        //bc1.forEach(bookClass -> System.out.println(bookClass.getBookName()));
     }
 }

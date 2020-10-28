@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bcb5338-6325-4ae0-8293-46ee7e31bcb5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/myjavacode/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/myjavacode/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/myjavacode/.idea/libraries/Maven__org_projectlombok_lombok_1_18_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/myjavacode/.idea/libraries/Maven__org_projectlombok_lombok_1_18_14.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/myjavacode/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/myjavacode/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/myjavacode/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/myjavacode/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/myjavacode/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/myjavacode/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/myjavacode/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/myjavacode/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/myjavacode/myjavacode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/code/myjavacode/myjavacode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/myjavacode/src/main/java/com/xtx/java/myclass2/MyCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/myjavacode/src/main/java/com/xtx/java/myclass2/MyCode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/code/myjavacode" />
   </component>
   <component name="SshConsoleOptionsProvider">
     <option name="myEncoding" value="UTF-8" />
@@ -39,6 +50,8 @@
       <option name="presentableId" value="Default" />
       <updated>1603183085785</updated>
       <workItem from="1603183090050" duration="36000" />
+      <workItem from="1603802814631" duration="278000" />
+      <workItem from="1603885235211" duration="6000" />
     </task>
     <servers />
   </component>
@@ -46,9 +59,9 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1603183124170">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1603802873365">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603183124170" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603802873365" />
   </component>
 </project>

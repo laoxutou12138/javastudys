@@ -13,16 +13,25 @@ import lombok.NoArgsConstructor;
  **/
 public class Circle extends Point {
     private int r;
+    private Point center;
 
     public Circle() {
         super();
+        //super();
         System.out.println("Circle被初始化");
     }
 
-    public Circle(int a, int b, int r) {
-        super(a, b);
+    public Circle(Point p1,int r) {
+        super(p1.x, p1.y);
+        this.center=p1;
         this.r = r;
     }
 
-
+    protected String compareCircle(Point p2){
+        if(this.center.compareDistance(p2)>this.r)
+        {
+            return "该点不在此圈内";
+        }
+        return "该点在此圈内";
+    }
 }
