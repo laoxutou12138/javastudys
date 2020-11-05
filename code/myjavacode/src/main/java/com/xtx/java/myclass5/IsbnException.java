@@ -11,8 +11,8 @@ import lombok.NoArgsConstructor;
  * @Author Administrator
  * @Date 2020/11/05
  **/
-public class ISBNExceptions extends Exception {
-    public ISBNExceptions(String message) {
+public class IsbnException extends Exception {
+    public IsbnException(String message) {
         super(message);
     }
 }

@@ -16,7 +16,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class Book {
-    public String ISBN;
-    public String BookName;
-    public Double Price;
+    public String isbn;
+    public String bookName;
+    public Double price;
 }

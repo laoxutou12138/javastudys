@@ -6,13 +6,13 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * @ClassName NameExceptions
+ * @ClassName PriceExceptions
  * @Description TODO
  * @Author Administrator
  * @Date 2020/11/05
  **/
-public class NameExceptions extends Exception {
-    public NameExceptions(String message) {
+public class PriceException extends Exception {
+    public PriceException(String message) {
         super(message);
     }
 }
