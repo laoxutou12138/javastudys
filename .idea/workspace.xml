@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2bcb5338-6325-4ae0-8293-46ee7e31bcb5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/myjavacode/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/myjavacode/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/myjavacode/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/myjavacode/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/myjavacode/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/myjavacode/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/myjavacode/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/myjavacode/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/myjavacode/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/myjavacode/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/myjavacode/myjavacode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/code/myjavacode/myjavacode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/myjavacode/src/main/java/com/xtx/java/myclass2/MyCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/myjavacode/src/main/java/com/xtx/java/myclass2/MyCode.java" afterDir="false" />
-    </list>
+    <list default="true" id="2bcb5338-6325-4ae0-8293-46ee7e31bcb5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +38,7 @@
       <workItem from="1603183090050" duration="36000" />
       <workItem from="1603802814631" duration="278000" />
       <workItem from="1603885235211" duration="6000" />
+      <workItem from="1604533993199" duration="64000" />
     </task>
     <servers />
   </component>
